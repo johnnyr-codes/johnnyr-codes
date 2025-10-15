@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Johnny 👋
 
-<!--
-**johnnyr-codes/johnnyr-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Currently taking CSC-134 and getting ready to learn C++!
 
-Here are some ideas to get you started:
+## My Foo 🎯
+I am an amateur Super Metroid speedrunner and my goal is to get my first any% speedrun ranked on speedrun.com!
+I like to shoot guns with friends and family. I hope to build my first rifle for competition matches one day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- C++
+
+## Fun Fact
+I have a fear of cockroaches.
+
+## Find Me
+- 📫 Right here on GitHub!
